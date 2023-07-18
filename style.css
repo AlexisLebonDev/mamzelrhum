@@ -1,0 +1,47 @@
+footer{
+    background: url(footer3.png) fixed no-repeat;
+    background-size: contain;
+    
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 50%;
+    width: 50%;
+}
+.Information {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 15%;
+    font-size: 1.5vw;
+    color: white;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    flex-direction: row;
+    height: 5vh;
+    width: 5vh;
+    justify-content: space-around;
+    width: 40%;
+
+}
+.mention{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+}
+@media screen and (max-width: 768px) {
+    .insta{
+        height: 4vh;
+        width: 4vh;
+        margin-top: 4%;
+    }
+
+}
+
+
