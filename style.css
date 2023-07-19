@@ -9,7 +9,7 @@ body{
 header{
 
     height: 500px;
-    background-image: url('/images/bannieremamzel.jpg');
+    background-image: url('images/bannieremamzel.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom 10% right 75%;
