@@ -1,7 +1,7 @@
 .his {
     display: flex;
     flex-direction: column;
-    width: 100vw;
+    width: 100%;
     align-items: center;
     justify-content: space-around;
     background-color: white;
